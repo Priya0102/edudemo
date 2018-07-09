@@ -1,0 +1,1352 @@
+/*
+ localizable.strings
+ Eshiksa
+ 
+ Created by Punit on 04/05/18.
+ Copyright © 2018 Akhilesh. All rights reserved.
+ */
+
+
+/* Class = "UILabel"; text = "Hindi"; ObjectID = "0B4-6g-VV4"; */
+"0B4-6g-VV4.text" = "Hindi";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "0BB-sZ-IzT"; */
+"0BB-sZ-IzT.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Course:"; ObjectID = "0JN-hz-0Sb"; */
+"0JN-hz-0Sb.text" = "Course:";
+
+/* Class = "UIViewController"; title = "Hostel Change Request List "; ObjectID = "0Pq-C7-cLM"; */
+"0Pq-C7-cLM.title" = "Hostel Change Request List ";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "0QC-Hk-iVC"; */
+"0QC-Hk-iVC.text" = "id";
+
+/* Class = "UILabel"; text = "Homework"; ObjectID = "0cB-FH-j4V"; */
+"0cB-FH-j4V.text" = "Homework";
+
+/* Class = "UILabel"; text = "Gatepass"; ObjectID = "0hO-Ek-RU0"; */
+"0hO-Ek-RU0.text" = "Gatepass";
+
+/* Class = "UILabel"; text = "Request"; ObjectID = "0iJ-Df-sFc"; */
+"0iJ-Df-sFc.text" = "Request";
+
+/* Class = "UILabel"; text = "No.of Books:"; ObjectID = "0mR-gz-GXs"; */
+"0mR-gz-GXs.text" = "No.of Books:";
+
+/* Class = "UILabel"; text = "Course"; ObjectID = "19r-Lv-TgX"; */
+"19r-Lv-TgX.text" = "Course";
+
+/* Class = "UIViewController"; title = "Hostel Change Request"; ObjectID = "1EB-HD-iZA"; */
+"1EB-HD-iZA.title" = "Hostel Change Request";
+
+/* Class = "UILabel"; text = "Submission date:"; ObjectID = "1Fx-AZ-zEs"; */
+"1Fx-AZ-zEs.text" = "Submission date:";
+
+/* Class = "UILabel"; text = "Leaves"; ObjectID = "1HQ-Cr-izI"; */
+"1HQ-Cr-izI.text" = "छुट्टी";
+
+/* Class = "UILabel"; text = "No.of Books"; ObjectID = "1Kk-uC-kfP"; */
+"1Kk-uC-kfP.text" = "No.of Books";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "1Pl-o0-A4c"; */
+"1Pl-o0-A4c.text" = "R";
+
+/* Class = "UILabel"; text = "Available Books:"; ObjectID = "1Z8-d0-gOA"; */
+"1Z8-d0-gOA.text" = "Available Books:";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "1cN-5V-F5y"; */
+"1cN-5V-F5y.text" = "मेरा प्रोफाइल";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "1oG-JD-9z0"; */
+"1oG-JD-9z0.text" = "English";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1ya-xH-Bmc"; */
+"1ya-xH-Bmc.text" = "Label";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "20E-eO-REk"; */
+"20E-eO-REk.text" = "RS";
+
+/* Class = "UIViewController"; title = "Circulars"; ObjectID = "241-6d-joA"; */
+"241-6d-joA.title" = "Circulars";
+
+/* Class = "UILabel"; text = "9988776655"; ObjectID = "27A-Mp-hsp"; */
+"27A-Mp-hsp.text" = "9988776655";
+
+/* Class = "UIViewController"; title = "Library Panel"; ObjectID = "2CI-qD-TeM"; */
+"2CI-qD-TeM.title" = "Library Panel";
+
+/* Class = "UILabel"; text = "Rejected "; ObjectID = "2HP-kh-2LP"; */
+"2HP-kh-2LP.text" = "Rejected ";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "2XX-pE-OHo"; */
+"2XX-pE-OHo.text" = "Mobile:";
+
+/* Class = "UILabel"; text = "Nagpur"; ObjectID = "2ZL-Ua-n2H"; */
+"2ZL-Ua-n2H.text" = "Nagpur";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "2pI-vE-AxM"; */
+"2pI-vE-AxM.text" = "2018-04-30";
+
+/* Class = "UILabel"; text = "Hostel"; ObjectID = "2xc-6A-250"; */
+"2xc-6A-250.text" = "हॉस्टल";
+
+/* Class = "UILabel"; text = "12:12:!2"; ObjectID = "38x-yJ-rfb"; */
+"38x-yJ-rfb.text" = "12:12:!2";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "3Ai-aH-Xai"; */
+"3Ai-aH-Xai.text" = "id";
+
+/* Class = "UILabel"; text = "Total Lectures"; ObjectID = "3B9-1Y-3K5"; */
+"3B9-1Y-3K5.text" = "Total Lectures";
+
+/* Class = "UILabel"; text = "Requested Leave"; ObjectID = "3Js-Rf-4k5"; */
+"3Js-Rf-4k5.text" = "Requested Leave";
+
+/* Class = "UIButton"; normalTitle = "FETCH STUDENT"; ObjectID = "3RF-Nw-hq6"; */
+"3RF-Nw-hq6.normalTitle" = "FETCH STUDENT";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "3TM-34-Mb5"; */
+"3TM-34-Mb5.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "3V1-rM-bEC"; */
+"3V1-rM-bEC.text" = "id";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "3Vo-9g-bEc"; */
+"3Vo-9g-bEc.text" = "A";
+
+/* Class = "UILabel"; text = "Teacher"; ObjectID = "3WM-ff-xNU"; */
+"3WM-ff-xNU.text" = "Teacher";
+
+/* Class = "UIViewController"; title = "Student Leaves"; ObjectID = "3aN-dh-hcr"; */
+"3aN-dh-hcr.title" = "Student Leaves";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "3s8-lR-ZIE"; */
+"3s8-lR-ZIE.text" = "Name";
+
+/* Class = "UILabel"; text = "Timetable"; ObjectID = "48c-KT-Uys"; */
+"48c-KT-Uys.text" = "Timetable";
+
+/* Class = "UILabel"; text = "Publisher"; ObjectID = "4Gv-3n-cCn"; */
+"4Gv-3n-cCn.text" = "Publisher";
+
+/* Class = "UIButton"; normalTitle = "Download"; ObjectID = "4MP-KC-MXq"; */
+"4MP-KC-MXq.normalTitle" = "Download";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "4SX-WT-MBk"; */
+"4SX-WT-MBk.text" = "id";
+
+/* Class = "UILabel"; text = "Book Category:"; ObjectID = "4XO-E0-1qy"; */
+"4XO-E0-1qy.text" = "Book Category:";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "4g1-Xj-h3e"; */
+"4g1-Xj-h3e.text" = "Mobile:";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "4qD-8y-PNg"; */
+"4qD-8y-PNg.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "4vA-Uc-4RT"; */
+"4vA-Uc-4RT.text" = "id";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "4yk-5b-5fF"; */
+"4yk-5b-5fF.text" = "Hostel Remark";
+
+/* Class = "UINavigationItem"; title = "HR"; ObjectID = "53u-Dk-SNV"; */
+"53u-Dk-SNV.title" = "HR";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "58H-1G-gpH"; */
+"58H-1G-gpH.text" = "Setting";
+
+/* Class = "UILabel"; text = "998"; ObjectID = "5Go-5j-UwZ"; */
+"5Go-5j-UwZ.text" = "998";
+
+/* Class = "UILabel"; text = "Circulars"; ObjectID = "5dy-6y-gUp"; */
+"5dy-6y-gUp.text" = "Circulars";
+
+/* Class = "UILabel"; text = "9922191263"; ObjectID = "5gP-T4-hw7"; */
+"5gP-T4-hw7.text" = "9922191263";
+
+/* Class = "UILabel"; text = "To Date"; ObjectID = "5jv-EP-CgD"; */
+"5jv-EP-CgD.text" = "To Date";
+
+/* Class = "UILabel"; text = "File Upload:"; ObjectID = "5oJ-Nm-m87"; */
+"5oJ-Nm-m87.text" = "File Upload:";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "5sd-EP-HQh"; */
+"5sd-EP-HQh.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "5vJ-ex-pbQ"; */
+"5vJ-ex-pbQ.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "68C-Vn-Fg1"; */
+"68C-Vn-Fg1.text" = "Label";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "6JG-Rd-Vme"; */
+"6JG-Rd-Vme.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "34800"; ObjectID = "6Ny-QZ-Upy"; */
+"6Ny-QZ-Upy.text" = "34800";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "6RF-c8-yZq"; */
+"6RF-c8-yZq.text" = "Address:";
+
+/* Class = "UILabel"; text = "Remark:"; ObjectID = "6ce-kO-6E2"; */
+"6ce-kO-6E2.text" = "Remark:";
+
+/* Class = "UILabel"; text = "Marketing"; ObjectID = "6qW-GR-ggQ"; */
+"6qW-GR-ggQ.text" = "Marketing";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "7EV-Bt-K88"; */
+"7EV-Bt-K88.text" = "R";
+
+/* Class = "UILabel"; text = "Remark:"; ObjectID = "7HZ-hr-zYT"; */
+"7HZ-hr-zYT.text" = "Remark:";
+
+/* Class = "UIButton"; normalTitle = "Request Leave"; ObjectID = "7QT-MJ-phu"; */
+"7QT-MJ-phu.normalTitle" = "Request Leave";
+
+/* Class = "UILabel"; text = "P.F."; ObjectID = "7YZ-L3-lC5"; */
+"7YZ-L3-lC5.text" = "P.F.";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "7fX-iD-0NS"; */
+"7fX-iD-0NS.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "No file choosen"; ObjectID = "7j2-hc-lkM"; */
+"7j2-hc-lkM.text" = "No file choosen";
+
+/* Class = "UILabel"; text = "Teacher"; ObjectID = "8Hz-du-UlV"; */
+"8Hz-du-UlV.text" = "Teacher";
+
+/* Class = "UILabel"; text = "ENGLISH"; ObjectID = "8S3-b7-zJO"; */
+"8S3-b7-zJO.text" = "ENGLISH";
+
+/* Class = "UILabel"; text = "Rejected "; ObjectID = "8S5-UY-4yd"; */
+"8S5-UY-4yd.text" = "Rejected ";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "8d9-dz-qOm"; */
+"8d9-dz-qOm.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Accession No:"; ObjectID = "8rL-oa-V5i"; */
+"8rL-oa-V5i.text" = "Accession No:";
+
+/* Class = "UILabel"; text = "2."; ObjectID = "8wn-jh-rzY"; */
+"8wn-jh-rzY.text" = "2.";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "911-ph-Qqv"; */
+"911-ph-Qqv.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "96S-Id-Moy"; */
+"96S-Id-Moy.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Timetable"; ObjectID = "9Ux-KU-EGv"; */
+"9Ux-KU-EGv.text" = "Timetable";
+
+/* Class = "UIViewController"; title = "Eshiksa"; ObjectID = "9Xh-GP-hMR"; */
+"9Xh-GP-hMR.title" = "Eshiksa";
+
+/* Class = "UILabel"; text = "Batch:"; ObjectID = "9c8-S0-8gc"; */
+"9c8-S0-8gc.text" = "Batch:";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "9jJ-FA-0rO"; */
+"9jJ-FA-0rO.text" = "S";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "9ne-8n-iYi"; */
+"9ne-8n-iYi.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "9pc-u1-aC0"; */
+"9pc-u1-aC0.text" = "2018-04-30";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "9sS-DW-tev"; */
+"9sS-DW-tev.text" = "मेरा प्रोफाइल";
+
+/* Class = "UILabel"; text = "Student"; ObjectID = "ABa-91-myS"; */
+"ABa-91-myS.text" = "छात्र";
+
+/* Class = "UILabel"; text = "Remark:"; ObjectID = "ASN-8V-mNQ"; */
+"ASN-8V-mNQ.text" = "Remark:";
+
+/* Class = "UILabel"; text = "Hostel Room Request"; ObjectID = "AV5-jZ-GGx"; */
+"AV5-jZ-GGx.text" = "Hostel Room Request";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "AZi-8r-gmd"; */
+"AZi-8r-gmd.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "P"; ObjectID = "Aa0-Ez-q1c"; */
+"Aa0-Ez-q1c.text" = "P";
+
+/* Class = "UILabel"; text = "Department:"; ObjectID = "Acn-b9-e8q"; */
+"Acn-b9-e8q.text" = "Department:";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "B6d-Z0-HJG"; */
+"B6d-Z0-HJG.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "BAL-qt-Ipu"; */
+"BAL-qt-Ipu.text" = "लॉगआउट";
+
+/* Class = "UIViewController"; title = "Hostel Room Request "; ObjectID = "BAX-B9-BGy"; */
+"BAX-B9-BGy.title" = "Hostel Room Request ";
+
+/* Class = "UILabel"; text = "Floor No:"; ObjectID = "BDX-JS-vxe"; */
+"BDX-JS-vxe.text" = "Floor No:";
+
+/* Class = "UIViewController"; title = "Hostel Room Request List "; ObjectID = "BFK-XU-P9E"; */
+"BFK-XU-P9E.title" = "Hostel Room Request List ";
+
+/* Class = "UILabel"; text = "BSD"; ObjectID = "BdO-Gc-QX9"; */
+"BdO-Gc-QX9.text" = "BSD";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Bg0-cE-6zY"; */
+"Bg0-cE-6zY.text" = "0";
+
+/* Class = "UILabel"; text = "Circulars"; ObjectID = "CQS-kT-JMt"; */
+"CQS-kT-JMt.text" = "Circulars";
+
+/* Class = "UILabel"; text = "Rejected "; ObjectID = "CSn-Au-xA0"; */
+"CSn-Au-xA0.text" = "Rejected ";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "CUb-nH-AJS"; */
+"CUb-nH-AJS.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "MARATHI"; ObjectID = "CgS-mJ-TjD"; */
+"CgS-mJ-TjD.text" = "MARATHI";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "ClX-g1-hM8"; */
+"ClX-g1-hM8.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Test Akhil 2 Test Akhil"; ObjectID = "CzA-aj-bhz"; */
+"CzA-aj-bhz.text" = "Test Akhil 2 Test Akhil";
+
+/* Class = "UILabel"; text = "Hostel Exit Request"; ObjectID = "D5v-yg-j23"; */
+"D5v-yg-j23.text" = "Hostel Exit Request";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "DYZ-t4-IR2"; */
+"DYZ-t4-IR2.text" = "id";
+
+/* Class = "UILabel"; text = "Salary Structure"; ObjectID = "Db4-fC-hGh"; */
+"Db4-fC-hGh.text" = "Salary Structure";
+
+/* Class = "UILabel"; text = "Pending "; ObjectID = "DbZ-rI-TIO"; */
+"DbZ-rI-TIO.text" = "Pending ";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "Dfw-n1-KSq"; */
+"Dfw-n1-KSq.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Batch"; ObjectID = "DlI-pu-hle"; */
+"DlI-pu-hle.text" = "Batch";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "E1l-cd-jnK"; */
+"E1l-cd-jnK.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Publisher:"; ObjectID = "EFJ-1p-RhI"; */
+"EFJ-1p-RhI.text" = "Publisher:";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "EcI-DQ-6Oh"; */
+"EcI-DQ-6Oh.text" = "Hostel Remark";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "Ehd-te-EDj"; */
+"Ehd-te-EDj.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Request Leave"; ObjectID = "F4C-ZB-gep"; */
+"F4C-ZB-gep.text" = "Request Leave";
+
+/* Class = "UIViewController"; title = "Requested Leave"; ObjectID = "F8v-Zb-15O"; */
+"F8v-Zb-15O.title" = "Requested Leave";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "FN0-sA-IPB"; */
+"FN0-sA-IPB.text" = "S";
+
+/* Class = "UIViewController"; title = "Library Books"; ObjectID = "FS5-wl-gng"; */
+"FS5-wl-gng.title" = "Library Books";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "FVf-1B-sED"; */
+"FVf-1B-sED.text" = "R";
+
+/* Class = "UILabel"; text = "Request Details:"; ObjectID = "FW6-hu-pNi"; */
+"FW6-hu-pNi.text" = "Request Details:";
+
+/* Class = "UILabel"; text = "Requisition Details:"; ObjectID = "Fof-u7-nVw"; */
+"Fof-u7-nVw.text" = "Requisition Details:";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "FvK-7N-ptc"; */
+"FvK-7N-ptc.text" = "A";
+
+/* Class = "UILabel"; text = "Grade Pay"; ObjectID = "G6G-x8-lo4"; */
+"G6G-x8-lo4.text" = "Grade Pay";
+
+/* Class = "UILabel"; text = "Period-8:"; ObjectID = "G80-Vm-ylP"; */
+"G80-Vm-ylP.text" = "Period-8:";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "GHo-ok-RQE"; */
+"GHo-ok-RQE.text" = "Mobile:";
+
+/* Class = "UILabel"; text = "Attendance"; ObjectID = "GHu-s2-XxT"; */
+"GHu-s2-XxT.text" = "Attendance";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "GNe-BT-9Ep"; */
+"GNe-BT-9Ep.text" = "Eshiksa Technology";
+
+/* Class = "UIButton"; normalTitle = "R"; ObjectID = "GSd-8B-byk"; */
+"GSd-8B-byk.normalTitle" = "R";
+
+/* Class = "UILabel"; text = "Pending "; ObjectID = "GVy-vY-xQ8"; */
+"GVy-vY-xQ8.text" = "Pending ";
+
+/* Class = "UILabel"; text = "Date of Birth:"; ObjectID = "GX3-Tn-b0r"; */
+"GX3-Tn-b0r.text" = "Date of Birth:";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "Gb0-ep-3Lg"; */
+"Gb0-ep-3Lg.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "HAd-n7-pzO"; */
+"HAd-n7-pzO.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "HCQ-GF-wt9"; */
+"HCQ-GF-wt9.text" = "S";
+
+/* Class = "UIViewController"; title = "Hostel"; ObjectID = "HG4-xY-Alw"; */
+"HG4-xY-Alw.title" = "Hostel";
+
+/* Class = "UILabel"; text = "Label2"; ObjectID = "HGr-oz-OHR"; */
+"HGr-oz-OHR.text" = "Label2";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "HIS-Uw-sAT"; */
+"HIS-Uw-sAT.text" = "RS";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "HUA-bb-P2G"; */
+"HUA-bb-P2G.text" = "सेटिंग्स";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "Hsy-ba-2Dl"; */
+"Hsy-ba-2Dl.text" = "About";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "Hv7-Oj-XpV"; */
+"Hv7-Oj-XpV.text" = "2018-04-30";
+
+/* Class = "UIButton"; normalTitle = "Get Book"; ObjectID = "IGV-Fk-H4f"; */
+"IGV-Fk-H4f.normalTitle" = "Get Book";
+
+/* Class = "UILabel"; text = "Present"; ObjectID = "J0Z-OF-Jse"; */
+"J0Z-OF-Jse.text" = "Present";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "JKJ-TX-ukO"; */
+"JKJ-TX-ukO.text" = "2018-04-30";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "JQE-R0-27E"; */
+"JQE-R0-27E.text" = "RS";
+
+/* Class = "UILabel"; text = "Student"; ObjectID = "JdI-6K-HUb"; */
+"JdI-6K-HUb.text" = "छात्र";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "Jdg-0P-FKJ"; */
+"Jdg-0P-FKJ.text" = "id";
+
+/* Class = "UILabel"; text = "Employee Id:"; ObjectID = "Jh4-e7-8bI"; */
+"Jh4-e7-8bI.text" = "Employee Id:";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "KBl-GR-zXT"; */
+"KBl-GR-zXT.text" = "A";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "KMF-ix-ZuE"; */
+"KMF-ix-ZuE.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Absent"; ObjectID = "KYx-qN-ueC"; */
+"KYx-qN-ueC.text" = "Absent";
+
+/* Class = "UILabel"; text = "Take attendance"; ObjectID = "Ka4-8g-Mr1"; */
+"Ka4-8g-Mr1.text" = "Take attendance";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Kb9-Fh-aVD"; */
+"Kb9-Fh-aVD.text" = "0";
+
+/* Class = "UILabel"; text = "Room No:"; ObjectID = "Klf-fp-XFo"; */
+"Klf-fp-XFo.text" = "Room No:";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "Kox-fR-vFI"; */
+"Kox-fR-vFI.text" = "R";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Ksp-vl-TBi"; */
+"Ksp-vl-TBi.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Student"; ObjectID = "L3g-YY-2Dr"; */
+"L3g-YY-2Dr.text" = "छात्र";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "L4b-PZ-SuA"; */
+"L4b-PZ-SuA.text" = "About";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "LGf-3w-rdM"; */
+"LGf-3w-rdM.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Report Title:"; ObjectID = "LfO-uU-Ief"; */
+"LfO-uU-Ief.text" = "Report Title:";
+
+/* Class = "UILabel"; text = "Student"; ObjectID = "LiC-8b-GOh"; */
+"LiC-8b-GOh.text" = "छात्र";
+
+/* Class = "UILabel"; text = "Pending "; ObjectID = "Lp2-vf-bLd"; */
+"Lp2-vf-bLd.text" = "Pending ";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "Lv8-9c-14f"; */
+"Lv8-9c-14f.text" = "id";
+
+/* Class = "UIViewController"; title = "Settings"; ObjectID = "MRl-jy-Ofc"; */
+"MRl-jy-Ofc.title" = "सेटिंग्स";
+
+/* Class = "UILabel"; text = "Request date"; ObjectID = "MWw-HR-2BW"; */
+"MWw-HR-2BW.text" = "Request date";
+
+/* Class = "UILabel"; text = "Requisition Title:"; ObjectID = "MY5-r4-kef"; */
+"MY5-r4-kef.text" = "Requisition Title:";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "Moo-qz-zdG"; */
+"Moo-qz-zdG.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "NB2-sL-GOK"; */
+"NB2-sL-GOK.text" = "0";
+
+/* Class = "UILabel"; text = "Rejected "; ObjectID = "NGv-Ky-2ik"; */
+"NGv-Ky-2ik.text" = "Rejected ";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "NgK-WE-3rP"; */
+"NgK-WE-3rP.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Publisher:"; ObjectID = "Nop-NV-KaV"; */
+"Nop-NV-KaV.text" = "Publisher:";
+
+/* Class = "UILabel"; text = "Pay Fees"; ObjectID = "NxW-KD-2qu"; */
+"NxW-KD-2qu.text" = "Pay Fees";
+
+/* Class = "UILabel"; text = "34800"; ObjectID = "O0E-83-zZT"; */
+"O0E-83-zZT.text" = "34800";
+
+/* Class = "UILabel"; text = "Batch:"; ObjectID = "O1J-zP-n8d"; */
+"O1J-zP-n8d.text" = "Batch:";
+
+/* Class = "UILabel"; text = "Class:"; ObjectID = "O6V-v3-ubW"; */
+"O6V-v3-ubW.text" = "Class:";
+
+/* Class = "UILabel"; text = "My Logs"; ObjectID = "OIH-w1-mGF"; */
+"OIH-w1-mGF.text" = "My Logs";
+
+/* Class = "UILabel"; text = "Attendance"; ObjectID = "ON3-BI-cuP"; */
+"ON3-BI-cuP.text" = "Attendance";
+
+/* Class = "UILabel"; text = "Payable:"; ObjectID = "OVX-nV-zDk"; */
+"OVX-nV-zDk.text" = "Payable:";
+
+/* Class = "UILabel"; text = "Approved "; ObjectID = "OZt-nT-JVp"; */
+"OZt-nT-JVp.text" = "Approved ";
+
+/* Class = "UILabel"; text = "3."; ObjectID = "ObE-oO-34q"; */
+"ObE-oO-34q.text" = "3.";
+
+/* Class = "UILabel"; text = "My Hostel"; ObjectID = "Og6-As-nVg"; */
+"Og6-As-nVg.text" = "My Hostel";
+
+/* Class = "UILabel"; text = "Created Date"; ObjectID = "Owb-Y8-7QS"; */
+"Owb-Y8-7QS.text" = "Created Date";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "OyL-sb-8HW"; */
+"OyL-sb-8HW.text" = "Hostel Remark";
+
+/* Class = "UILabel"; text = "Homework"; ObjectID = "PO1-UJ-dsj"; */
+"PO1-UJ-dsj.text" = "Homework";
+
+/* Class = "UILabel"; text = "From Date"; ObjectID = "PVW-tJ-ThI"; */
+"PVW-tJ-ThI.text" = "From Date";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "PZy-KK-0qe"; */
+"PZy-KK-0qe.text" = "RS";
+
+/* Class = "UILabel"; text = "Request"; ObjectID = "PyY-II-2eJ"; */
+"PyY-II-2eJ.text" = "Request";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "QA1-WW-wts"; */
+"QA1-WW-wts.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "ISBN:"; ObjectID = "QDY-gd-ejB"; */
+"QDY-gd-ejB.text" = "ISBN:";
+
+/* Class = "UILabel"; text = "Timetable"; ObjectID = "QKn-fL-yju"; */
+"QKn-fL-yju.text" = "Timetable";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "QKv-6e-4Or"; */
+"QKv-6e-4Or.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "12:12:!2"; ObjectID = "QXa-2z-Otp"; */
+"QXa-2z-Otp.text" = "12:12:!2";
+
+/* Class = "UILabel"; text = "P"; ObjectID = "QZb-sw-kgo"; */
+"QZb-sw-kgo.text" = "P";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "Qai-PQ-QCn"; */
+"Qai-PQ-QCn.text" = "2018-04-30";
+
+/* Class = "UILabel"; text = "9922191263"; ObjectID = "Qck-d9-3m9"; */
+"Qck-d9-3m9.text" = "9922191263";
+
+/* Class = "UILabel"; text = "Request Type"; ObjectID = "Qcr-4g-Dju"; */
+"Qcr-4g-Dju.text" = "Request Type";
+
+/* Class = "UILabel"; text = "Investment Amount:"; ObjectID = "QyV-aJ-EpK"; */
+"QyV-aJ-EpK.text" = "Investment Amount:";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "R16-wt-F3l"; */
+"R16-wt-F3l.text" = "Hostel Remark";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "RNo-mJ-Vi0"; */
+"RNo-mJ-Vi0.text" = "R";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "RPv-zf-mjO"; */
+"RPv-zf-mjO.text" = "S";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "Rms-ci-dBs"; */
+"Rms-ci-dBs.text" = "लॉगआउट";
+
+/* Class = "UILabel"; text = "From Date:"; ObjectID = "Rtw-nL-WtL"; */
+"Rtw-nL-WtL.text" = "From Date:";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "Ru6-er-pLA"; */
+"Ru6-er-pLA.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "View Books"; ObjectID = "S0h-EQ-Cqg"; */
+"S0h-EQ-Cqg.text" = "View Books";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "SRt-Bk-PBN"; */
+"SRt-Bk-PBN.text" = "डैशबोर्ड";
+
+/* Class = "UILabel"; text = "Subjects"; ObjectID = "Sjm-ru-xxH"; */
+"Sjm-ru-xxH.text" = "Subjects";
+
+/* Class = "UILabel"; text = "teacher@gmail.com"; ObjectID = "SqU-dD-dup"; */
+"SqU-dD-dup.text" = "teacher@gmail.com";
+
+/* Class = "UILabel"; text = "Pending "; ObjectID = "TB8-TE-fjI"; */
+"TB8-TE-fjI.text" = "Pending ";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "TBd-mN-12X"; */
+"TBd-mN-12X.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "TEN-hy-dUR"; */
+"TEN-hy-dUR.text" = "Eshiksa Technology";
+
+/* Class = "UITextField"; placeholder = "Enter Username"; ObjectID = "Tij-Zi-vBb"; */
+"Tij-Zi-vBb.placeholder" = "Enter Username";
+
+/* Class = "UILabel"; text = "Rejected "; ObjectID = "U0X-X6-B2J"; */
+"U0X-X6-B2J.text" = "Rejected ";
+
+/* Class = "UILabel"; text = "1263"; ObjectID = "U98-8W-VTE"; */
+"U98-8W-VTE.text" = "1263";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "UFv-cY-8bf"; */
+"UFv-cY-8bf.text" = "A";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "UGR-bH-gPe"; */
+"UGR-bH-gPe.text" = "R";
+
+/* Class = "UILabel"; text = "Remark:"; ObjectID = "UYr-z0-4uo"; */
+"UYr-z0-4uo.text" = "Remark:";
+
+/* Class = "UILabel"; text = "My Report"; ObjectID = "Ugb-19-hvM"; */
+"Ugb-19-hvM.text" = "My Report";
+
+/* Class = "UILabel"; text = "Approved "; ObjectID = "UtU-2G-ioj"; */
+"UtU-2G-ioj.text" = "Approved ";
+
+/* Class = "UILabel"; text = "Request Details"; ObjectID = "VI0-yN-Dgv"; */
+"VI0-yN-Dgv.text" = "Request Details";
+
+/* Class = "UILabel"; text = "teacher@gmail.com"; ObjectID = "VJU-K5-798"; */
+"VJU-K5-798.text" = "teacher@gmail.com";
+
+/* Class = "UILabel"; text = "DOB:"; ObjectID = "VL9-Gr-wzw"; */
+"VL9-Gr-wzw.text" = "DOB:";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "VrT-Fc-0Qs"; */
+"VrT-Fc-0Qs.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "W7i-wF-BVg"; */
+"W7i-wF-BVg.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Class V"; ObjectID = "WGs-uU-bQT"; */
+"WGs-uU-bQT.text" = "Class V";
+
+/* Class = "UILabel"; text = "To Date"; ObjectID = "WOt-tG-XBy"; */
+"WOt-tG-XBy.text" = "To Date";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "WOu-vi-OFw"; */
+"WOu-vi-OFw.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "WYs-EY-JxB"; */
+"WYs-EY-JxB.text" = "Hostel Remark";
+
+/* Class = "UINavigationItem"; title = "Forgot Password"; ObjectID = "XCZ-LW-XXB"; */
+"XCZ-LW-XXB.title" = "पासवर्ड भूल गया";
+
+/* Class = "UIViewController"; title = "My Log"; ObjectID = "XoW-dU-WDW"; */
+"XoW-dU-WDW.title" = "My Log";
+
+/* Class = "UILabel"; text = "Room Partners"; ObjectID = "Xq7-g3-qbc"; */
+"Xq7-g3-qbc.text" = "Room Partners";
+
+/* Class = "UILabel"; text = "34800"; ObjectID = "Y7N-gL-3vk"; */
+"Y7N-gL-3vk.text" = "34800";
+
+/* Class = "UILabel"; text = "2010-10-20"; ObjectID = "YAW-yh-c5n"; */
+"YAW-yh-c5n.text" = "2010-10-20";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "YJT-BH-M6J"; */
+"YJT-BH-M6J.text" = "R";
+
+/* Class = "UILabel"; text = "P"; ObjectID = "YeH-ij-24F"; */
+"YeH-ij-24F.text" = "P";
+
+/* Class = "UIViewController"; title = "Gatepass Details"; ObjectID = "Yj7-ia-8I1"; */
+"Yj7-ia-8I1.title" = "Gatepass Details";
+
+/* Class = "UILabel"; text = "12:50:00 TO 1:30:00"; ObjectID = "YqA-gZ-uaA"; */
+"YqA-gZ-uaA.text" = "12:50:00 TO 1:30:00";
+
+/* Class = "UILabel"; text = "Approved "; ObjectID = "Yyb-lU-Z0N"; */
+"Yyb-lU-Z0N.text" = "Approved ";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "Yz7-wf-HyQ"; */
+"Yz7-wf-HyQ.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "YzB-MJ-ZMs"; */
+"YzB-MJ-ZMs.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Apply Leave"; ObjectID = "ZJc-zn-QFX"; */
+"ZJc-zn-QFX.text" = "Apply Leave";
+
+/* Class = "UILabel"; text = "Basic Pay"; ObjectID = "ZRh-jE-Vjs"; */
+"ZRh-jE-Vjs.text" = "Basic Pay";
+
+/* Class = "UIViewController"; title = "Timetable"; ObjectID = "Zsz-vj-Vyq"; */
+"Zsz-vj-Vyq.title" = "Timetable";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "ZtQ-dr-arD"; */
+"ZtQ-dr-arD.text" = "Status";
+
+/* Class = "UILabel"; text = "Gallery"; ObjectID = "Zxl-1g-mHi"; */
+"Zxl-1g-mHi.text" = "गैलरी";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "aAo-wV-hDA"; */
+"aAo-wV-hDA.text" = "डैशबोर्ड";
+
+/* Class = "UILabel"; text = "03:00:00"; ObjectID = "aCc-BM-dYY"; */
+"aCc-BM-dYY.text" = "03:00:00";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "aCv-Fu-tlm"; */
+"aCv-Fu-tlm.text" = "Pending";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "aDg-0v-nMF"; */
+"aDg-0v-nMF.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "aKY-YA-cgo"; */
+"aKY-YA-cgo.text" = "RS";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "aSn-K5-bGr"; */
+"aSn-K5-bGr.text" = "R";
+
+/* Class = "UILabel"; text = "day"; ObjectID = "aWc-CS-iAR"; */
+"aWc-CS-iAR.text" = "day";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "aXs-Xx-c97"; */
+"aXs-Xx-c97.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Approved "; ObjectID = "aeC-Gy-vgg"; */
+"aeC-Gy-vgg.text" = "Approved ";
+
+/* Class = "UILabel"; text = "student@gmail.com"; ObjectID = "ahE-Y7-7Ey"; */
+"ahE-Y7-7Ey.text" = "student@gmail.com";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "au0-8A-bjc"; */
+"au0-8A-bjc.normalTitle" = "पासवर्ड भूल गया";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "azV-GM-2Rd"; */
+"azV-GM-2Rd.text" = "Hostel Remark";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "b8m-Aq-kRL"; */
+"b8m-Aq-kRL.text" = "S";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "bG6-4d-7c2"; */
+"bG6-4d-7c2.text" = "id";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "bN5-Jr-bza"; */
+"bN5-Jr-bza.text" = "LOGIN";
+
+/* Class = "UILabel"; text = "20-10-2018"; ObjectID = "bWk-1F-pWS"; */
+"bWk-1F-pWS.text" = "20-10-2018";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "bXg-2n-oCV"; */
+"bXg-2n-oCV.text" = "2018-04-30";
+
+/* Class = "UILabel"; text = "Approved "; ObjectID = "bo0-9c-iC4"; */
+"bo0-9c-iC4.text" = "Approved ";
+
+/* Class = "UILabel"; text = "P"; ObjectID = "bvJ-kp-Qlz"; */
+"bvJ-kp-Qlz.text" = "P";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "c7r-pv-bC6"; */
+"c7r-pv-bC6.text" = "id";
+
+/* Class = "UINavigationItem"; title = "Eshiksa"; ObjectID = "c8R-Hg-M6T"; */
+"c8R-Hg-M6T.title" = "Eshiksa";
+
+/* Class = "UILabel"; text = "Publish Date"; ObjectID = "cGB-mR-GqS"; */
+"cGB-mR-GqS.text" = "Publish Date";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "cIQ-Ja-5NV"; */
+"cIQ-Ja-5NV.text" = "Date";
+
+/* Class = "UILabel"; text = "Salary Structure"; ObjectID = "cMK-Ps-TtW"; */
+"cMK-Ps-TtW.text" = "Salary Structure";
+
+/* Class = "UIViewController"; title = "View Books"; ObjectID = "cUD-dV-fE4"; */
+"cUD-dV-fE4.title" = "View Books";
+
+/* Class = "UILabel"; text = "My Report"; ObjectID = "cbg-m4-1HY"; */
+"cbg-m4-1HY.text" = "My Report";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "cdF-g5-VHc"; */
+"cdF-g5-VHc.text" = "2018-04-30";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "cjx-5U-IJu"; */
+"cjx-5U-IJu.text" = "123";
+
+/* Class = "UILabel"; text = "Approved "; ObjectID = "cv9-nK-9R7"; */
+"cv9-nK-9R7.text" = "Approved ";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "d04-Gr-0lX"; */
+"d04-Gr-0lX.text" = "Name:";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "d2h-af-EiZ"; */
+"d2h-af-EiZ.text" = "Powered By:";
+
+/* Class = "UISearchBar"; d5j-Xe-U19.scopeButtonTitles[0] = "Title"; ObjectID = "d5j-Xe-U19"; */
+"d5j-Xe-U19.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; d5j-Xe-U19.scopeButtonTitles[1] = "Title"; ObjectID = "d5j-Xe-U19"; */
+"d5j-Xe-U19.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "2017-2018"; ObjectID = "d6p-Lh-Np5"; */
+"d6p-Lh-Np5.text" = "2017-2018";
+
+/* Class = "UILabel"; text = "Paid fees"; ObjectID = "dYt-Yt-a5j"; */
+"dYt-Yt-a5j.text" = "Paid fees";
+
+/* Class = "UIButton"; normalTitle = "Register Requisition"; ObjectID = "dgd-vq-hEN"; */
+"dgd-vq-hEN.normalTitle" = "Register Requisition";
+
+/* Class = "UILabel"; text = "Section:"; ObjectID = "dpu-gc-h4k"; */
+"dpu-gc-h4k.text" = "Section:";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "dsd-3h-M8C"; */
+"dsd-3h-M8C.text" = "R";
+
+/* Class = "UILabel"; text = "Author:"; ObjectID = "dvQ-uI-Oja"; */
+"dvQ-uI-Oja.text" = "Author:";
+
+/* Class = "UIButton"; normalTitle = "Request"; ObjectID = "dwd-R5-PBK"; */
+"dwd-R5-PBK.normalTitle" = "Request";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "eEO-ec-YMx"; */
+"eEO-ec-YMx.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Student Id:"; ObjectID = "eJO-7X-vAE"; */
+"eJO-7X-vAE.text" = "Student Id:";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "eOF-jZ-bg9"; */
+"eOF-jZ-bg9.text" = "Status";
+
+/* Class = "UILabel"; text = "Remark:"; ObjectID = "eQb-nD-1PI"; */
+"eQb-nD-1PI.text" = "Remark:";
+
+/* Class = "UIViewController"; title = "Eshiksa"; ObjectID = "eSj-Kz-6gS"; */
+"eSj-Kz-6gS.title" = "Eshiksa";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "eil-60-rgc"; */
+"eil-60-rgc.text" = "A";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "f1N-wi-1jL"; */
+"f1N-wi-1jL.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Group Name:"; ObjectID = "fCt-rg-VRG"; */
+"fCt-rg-VRG.text" = "Group Name:";
+
+/* Class = "UILabel"; text = "PRE PRI"; ObjectID = "fIQ-oZ-m9M"; */
+"fIQ-oZ-m9M.text" = "PRE PRI";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "fSk-Ag-MfJ"; */
+"fSk-Ag-MfJ.text" = "Hostel Remark";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "fc1-eH-bc2"; */
+"fc1-eH-bc2.text" = "S";
+
+/* Class = "UILabel"; text = "Gallery"; ObjectID = "feo-XQ-lfc"; */
+"feo-XQ-lfc.text" = "गैलरी";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "fet-n0-hAd"; */
+"fet-n0-hAd.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "fj2-TV-2Ih"; */
+"fj2-TV-2Ih.text" = "Email:";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "fqC-at-QqK"; */
+"fqC-at-QqK.text" = "Contact";
+
+/* Class = "UILabel"; text = "9999888877"; ObjectID = "ftD-fX-Z7X"; */
+"ftD-fX-Z7X.text" = "9999888877";
+
+/* Class = "UILabel"; text = "To Date"; ObjectID = "ftN-ss-y7E"; */
+"ftN-ss-y7E.text" = "To Date";
+
+/* Class = "UILabel"; text = "Available Books"; ObjectID = "fwN-sD-kQk"; */
+"fwN-sD-kQk.text" = "Available Books";
+
+/* Class = "UINavigationItem"; title = "Eshiksa Teacher Panel"; ObjectID = "g0Y-9k-tLz"; */
+"g0Y-9k-tLz.title" = "Eshiksa Teacher Panel";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "g1O-7w-FMZ"; */
+"g1O-7w-FMZ.text" = "Address:";
+
+/* Class = "UILabel"; text = "Asha Mishra"; ObjectID = "gIW-mP-iGn"; */
+"gIW-mP-iGn.text" = "Asha Mishra";
+
+/* Class = "UIButton"; normalTitle = "Request Books"; ObjectID = "gLq-hH-ys7"; */
+"gLq-hH-ys7.normalTitle" = "Request Books";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "ggj-p4-uDk"; */
+"ggj-p4-uDk.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "gh6-qf-COQ"; */
+"gh6-qf-COQ.text" = "A";
+
+/* Class = "UILabel"; text = "D.A."; ObjectID = "gkf-3N-5xZ"; */
+"gkf-3N-5xZ.text" = "D.A.";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "gp2-hS-877"; */
+"gp2-hS-877.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Report Date:"; ObjectID = "gpr-iw-j8u"; */
+"gpr-iw-j8u.text" = "Report Date:";
+
+/* Class = "UIButton"; normalTitle = "R"; ObjectID = "gxw-PK-hb6"; */
+"gxw-PK-hb6.normalTitle" = "R";
+
+/* Class = "UIViewController"; title = "Profile"; ObjectID = "h6p-5u-mOe"; */
+"h6p-5u-mOe.title" = "मेरा प्रोफाइल";
+
+/* Class = "UILabel"; text = "Apply Leave"; ObjectID = "hDW-lL-dWo"; */
+"hDW-lL-dWo.text" = "Apply Leave";
+
+/* Class = "UILabel"; text = "Hostel Change Request"; ObjectID = "hFQ-ZZ-1fU"; */
+"hFQ-ZZ-1fU.text" = "Hostel Change Request";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "hHy-UU-dQ4"; */
+"hHy-UU-dQ4.text" = "Setting";
+
+/* Class = "UILabel"; text = "Section"; ObjectID = "hSa-ZA-HSY"; */
+"hSa-ZA-HSY.text" = "Section";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "haO-u3-VyA"; */
+"haO-u3-VyA.text" = "2018-04-30";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hrL-tv-Blh"; */
+"hrL-tv-Blh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "hrP-ol-yih"; */
+"hrP-ol-yih.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "htG-D7-Mav"; */
+"htG-D7-Mav.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "huD-Xk-S2E"; */
+"huD-Xk-S2E.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Reason*"; ObjectID = "hxd-bm-SYf"; */
+"hxd-bm-SYf.text" = "Reason*";
+
+/* Class = "UINavigationItem"; title = "Eshiksa Student Panel"; ObjectID = "i4z-1l-7oy"; */
+"i4z-1l-7oy.title" = "Eshiksa Student Panel";
+
+/* Class = "UIButton"; normalTitle = "Request"; ObjectID = "i7S-2Y-7zc"; */
+"i7S-2Y-7zc.normalTitle" = "Request";
+
+/* Class = "UILabel"; text = "Rejected "; ObjectID = "iNb-v6-3Fm"; */
+"iNb-v6-3Fm.text" = "Rejected ";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "iTw-tE-4wo"; */
+"iTw-tE-4wo.text" = "R";
+
+/* Class = "UILabel"; text = "Student"; ObjectID = "icH-Cf-AOX"; */
+"icH-Cf-AOX.text" = "छात्र";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "iox-aC-OKR"; */
+"iox-aC-OKR.text" = "Contact";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "ivf-Mx-Cey"; */
+"ivf-Mx-Cey.text" = "Contact";
+
+/* Class = "UILabel"; text = "Salary(Rs.):"; ObjectID = "j7E-RI-x6E"; */
+"j7E-RI-x6E.text" = "Salary(Rs.):";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "jSG-uD-TJ2"; */
+"jSG-uD-TJ2.text" = "Contact";
+
+/* Class = "UILabel"; text = "1."; ObjectID = "jVK-JM-gW3"; */
+"jVK-JM-gW3.text" = "1.";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "jbe-ei-bTI"; */
+"jbe-ei-bTI.text" = "Subject";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "jmR-rf-L5E"; */
+"jmR-rf-L5E.text" = "id";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "jvc-1L-NH7"; */
+"jvc-1L-NH7.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Course"; ObjectID = "k1e-zZ-iCs"; */
+"k1e-zZ-iCs.text" = "Course";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "k5h-Zw-yus"; */
+"k5h-Zw-yus.text" = "Email:";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "k8b-wM-6vL"; */
+"k8b-wM-6vL.text" = "Powered By:";
+
+/* Class = "UIButton"; normalTitle = "Apply Leave"; ObjectID = "kAc-aG-6ZG"; */
+"kAc-aG-6ZG.normalTitle" = "Apply Leave";
+
+/* Class = "UILabel"; text = "Read more"; ObjectID = "kOt-rE-4wT"; */
+"kOt-rE-4wT.text" = "Read more";
+
+/* Class = "UILabel"; text = "Transport Route"; ObjectID = "kag-QM-RbZ"; */
+"kag-QM-RbZ.text" = "Transport Route";
+
+/* Class = "UILabel"; text = "Nagpur"; ObjectID = "kmK-Qa-5mI"; */
+"kmK-Qa-5mI.text" = "Nagpur";
+
+/* Class = "UILabel"; text = "1452"; ObjectID = "knB-JD-ehb"; */
+"knB-JD-ehb.text" = "1452";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "l5z-07-YaP"; */
+"l5z-07-YaP.text" = "R";
+
+/* Class = "UILabel"; text = "Requisition Type:"; ObjectID = "lOI-Cd-8ol"; */
+"lOI-Cd-8ol.text" = "Requisition Type:";
+
+/* Class = "UILabel"; text = "2017-2018"; ObjectID = "lh7-cQ-Yx3"; */
+"lh7-cQ-Yx3.text" = "2017-2018";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "lhU-P9-kJ6"; */
+"lhU-P9-kJ6.text" = "2018-04-30";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "llB-bf-3zk"; */
+"llB-bf-3zk.text" = "RS";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "lm7-dJ-HIR"; */
+"lm7-dJ-HIR.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "PRE PRI"; ObjectID = "ltg-7v-NRj"; */
+"ltg-7v-NRj.text" = "PRE PRI";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "mD9-8T-1wH"; */
+"mD9-8T-1wH.text" = "S";
+
+/* Class = "UILabel"; text = "Register a Requisition"; ObjectID = "mEd-Ex-R8u"; */
+"mEd-Ex-R8u.text" = "Register a Requisition";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "mEe-Dv-EXz"; */
+"mEe-Dv-EXz.text" = "About";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "mbP-Re-DcS"; */
+"mbP-Re-DcS.text" = "Powered By:";
+
+/* Class = "UIViewController"; title = "Gatepass Details"; ObjectID = "mgM-hm-xn4"; */
+"mgM-hm-xn4.title" = "Gatepass Details";
+
+/* Class = "UILabel"; text = "View Requisition"; ObjectID = "mtg-h8-I6Z"; */
+"mtg-h8-I6Z.text" = "View Requisition";
+
+/* Class = "UILabel"; text = "03:00:00"; ObjectID = "mxP-j2-6R5"; */
+"mxP-j2-6R5.text" = "03:00:00";
+
+/* Class = "UILabel"; text = "Teacher"; ObjectID = "n4s-Hm-uRP"; */
+"n4s-Hm-uRP.text" = "Teacher";
+
+/* Class = "UISegmentedControl"; nNe-vH-hsl.segmentTitles[0] = "Monday"; ObjectID = "nNe-vH-hsl"; */
+"nNe-vH-hsl.segmentTitles[0]" = "Monday";
+
+/* Class = "UISegmentedControl"; nNe-vH-hsl.segmentTitles[1] = "Tuesday"; ObjectID = "nNe-vH-hsl"; */
+"nNe-vH-hsl.segmentTitles[1]" = "Tuesday";
+
+/* Class = "UISegmentedControl"; nNe-vH-hsl.segmentTitles[2] = "Wednesday"; ObjectID = "nNe-vH-hsl"; */
+"nNe-vH-hsl.segmentTitles[2]" = "Wednesday";
+
+/* Class = "UISegmentedControl"; nNe-vH-hsl.segmentTitles[3] = "Thursday"; ObjectID = "nNe-vH-hsl"; */
+"nNe-vH-hsl.segmentTitles[3]" = "Thursday";
+
+/* Class = "UISegmentedControl"; nNe-vH-hsl.segmentTitles[4] = "Friday"; ObjectID = "nNe-vH-hsl"; */
+"nNe-vH-hsl.segmentTitles[4]" = "Friday";
+
+/* Class = "UISegmentedControl"; nNe-vH-hsl.segmentTitles[5] = "Saturday"; ObjectID = "nNe-vH-hsl"; */
+"nNe-vH-hsl.segmentTitles[5]" = "Saturday";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "nSl-Vm-hqX"; */
+"nSl-Vm-hqX.text" = "About";
+
+/* Class = "UILabel"; text = "2017-2018"; ObjectID = "nrb-UR-H8Q"; */
+"nrb-UR-H8Q.text" = "2017-2018";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "oCE-WV-VG9"; */
+"oCE-WV-VG9.text" = "R";
+
+/* Class = "UILabel"; text = "Teaching"; ObjectID = "oSQ-d8-irJ"; */
+"oSQ-d8-irJ.text" = "Teaching";
+
+/* Class = "UILabel"; text = "Demo home work for testing"; ObjectID = "oT4-kd-34l"; */
+"oT4-kd-34l.text" = "Demo home work for testing";
+
+/* Class = "UILabel"; text = "2010-10-20"; ObjectID = "oh1-PT-0Nb"; */
+"oh1-PT-0Nb.text" = "2010-10-20";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "p1s-Cv-GrR"; */
+"p1s-Cv-GrR.text" = "Powered By:";
+
+/* Class = "UIViewController"; title = "Hostel Room Request List "; ObjectID = "p6V-Uq-H0i"; */
+"p6V-Uq-H0i.title" = "Hostel Room Request List ";
+
+/* Class = "UILabel"; text = "Book Name:"; ObjectID = "p8F-Gt-qIX"; */
+"p8F-Gt-qIX.text" = "Book Name:";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "pOB-OH-ku2"; */
+"pOB-OH-ku2.text" = "Date";
+
+/* Class = "UILabel"; text = "Deductable:"; ObjectID = "pOH-kZ-ur6"; */
+"pOH-kZ-ur6.text" = "Deductable:";
+
+/* Class = "UILabel"; text = "My Room"; ObjectID = "pUA-4s-JIt"; */
+"pUA-4s-JIt.text" = "My Room";
+
+/* Class = "UILabel"; text = "HR"; ObjectID = "pdh-I3-bjE"; */
+"pdh-I3-bjE.text" = "HR";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "pfG-6J-iPW"; */
+"pfG-6J-iPW.text" = "Hostel Remark";
+
+/* Class = "UILabel"; text = "ENGLISH"; ObjectID = "pxS-ke-NAX"; */
+"pxS-ke-NAX.text" = "ENGLISH";
+
+/* Class = "UILabel"; text = "Employee Name:"; ObjectID = "qMt-bb-u7L"; */
+"qMt-bb-u7L.text" = "Employee Name:";
+
+/* Class = "UILabel"; text = "Edition:"; ObjectID = "qT6-qo-2rq"; */
+"qT6-qo-2rq.text" = "Edition:";
+
+/* Class = "UITextField"; placeholder = "Username or Email"; ObjectID = "qUC-92-2rg"; */
+"qUC-92-2rg.placeholder" = "नाम की आवश्यकता है";
+
+/* Class = "UIViewController"; title = "Profile"; ObjectID = "qbl-ow-tKN"; */
+"qbl-ow-tKN.title" = "मेरा प्रोफाइल";
+
+/* Class = "UILabel"; text = "Requisitions"; ObjectID = "qyc-Ql-yzA"; */
+"qyc-Ql-yzA.text" = "Requisitions";
+
+/* Class = "UILabel"; text = "P"; ObjectID = "qzS-Ly-nS7"; */
+"qzS-Ly-nS7.text" = "P";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "r3y-dQ-Fia"; */
+"r3y-dQ-Fia.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "sid"; ObjectID = "rP4-x3-v57"; */
+"rP4-x3-v57.text" = "sid";
+
+/* Class = "UILabel"; text = "Teacher"; ObjectID = "rQm-Mr-hF6"; */
+"rQm-Mr-hF6.text" = "Teacher";
+
+/* Class = "UILabel"; text = "Remark:"; ObjectID = "rSQ-ld-obs"; */
+"rSQ-ld-obs.text" = "Remark:";
+
+/* Class = "UILabel"; text = "To Date:"; ObjectID = "rTP-cW-0Cx"; */
+"rTP-cW-0Cx.text" = "To Date:";
+
+/* Class = "UILabel"; text = "PRE PRI"; ObjectID = "rVa-Ee-M3D"; */
+"rVa-Ee-M3D.text" = "PRE PRI";
+
+/* Class = "UILabel"; text = "Reason*"; ObjectID = "rdk-5a-tNa"; */
+"rdk-5a-tNa.text" = "Reason*";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "rr2-Yu-h0l"; */
+"rr2-Yu-h0l.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Library Panel"; ObjectID = "sCV-eM-ZB4"; */
+"sCV-eM-ZB4.text" = "Library Panel";
+
+/* Class = "UIViewController"; title = "Attendance"; ObjectID = "sEL-xT-A4U"; */
+"sEL-xT-A4U.title" = "Attendance";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "sWj-WH-G7p"; */
+"sWj-WH-G7p.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "12:12:!2"; ObjectID = "sf0-JC-TJX"; */
+"sf0-JC-TJX.text" = "12:12:!2";
+
+/* Class = "UILabel"; text = "34800"; ObjectID = "smE-jo-aud"; */
+"smE-jo-aud.text" = "34800";
+
+/* Class = "UIViewController"; title = "Hostel Room Exit "; ObjectID = "suq-Je-7Df"; */
+"suq-Je-7Df.title" = "Hostel Room Exit ";
+
+/* Class = "UILabel"; text = "Library Panel"; ObjectID = "t1M-MI-aT9"; */
+"t1M-MI-aT9.text" = "Library Panel";
+
+/* Class = "UILabel"; text = "Attendance"; ObjectID = "t4n-eE-VPW"; */
+"t4n-eE-VPW.text" = "Attendance";
+
+/* Class = "UIButton"; normalTitle = "Request"; ObjectID = "t4x-RW-gzh"; */
+"t4x-RW-gzh.normalTitle" = "Request";
+
+/* Class = "UILabel"; text = "1263"; ObjectID = "t6F-nH-vbo"; */
+"t6F-nH-vbo.text" = "1263";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "t6Q-8k-Ho0"; */
+"t6Q-8k-Ho0.text" = "R";
+
+/* Class = "UIViewController"; title = "Gatepass"; ObjectID = "tSs-DP-9Ml"; */
+"tSs-DP-9Ml.title" = "Gatepass";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "u9F-Gg-SuJ"; */
+"u9F-Gg-SuJ.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Hostel Remark"; ObjectID = "uLr-py-ngo"; */
+"uLr-py-ngo.text" = "Hostel Remark";
+
+/* Class = "UILabel"; text = "Leaves"; ObjectID = "uUz-i2-oPc"; */
+"uUz-i2-oPc.text" = "छुट्टी";
+
+/* Class = "UILabel"; text = "Test Hostel"; ObjectID = "uhV-mp-nPw"; */
+"uhV-mp-nPw.text" = "Test Hostel";
+
+/* Class = "UILabel"; text = "Author:"; ObjectID = "ujR-Xa-0gJ"; */
+"ujR-Xa-0gJ.text" = "Author:";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "uvM-f1-L6o"; */
+"uvM-f1-L6o.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Pending "; ObjectID = "uwX-Nu-FUz"; */
+"uwX-Nu-FUz.text" = "Pending ";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "v7c-E0-WJe"; */
+"v7c-E0-WJe.placeholder" = "पासवर्ड की आवश्यकता है";
+
+/* Class = "UILabel"; text = "Edition"; ObjectID = "v8F-Sk-ipt"; */
+"v8F-Sk-ipt.text" = "Edition";
+
+/* Class = "UILabel"; text = "Art and Craft Workshop"; ObjectID = "vLH-6W-FVO"; */
+"vLH-6W-FVO.text" = "Art and Craft Workshop";
+
+/* Class = "UILabel"; text = "34800"; ObjectID = "vLd-k7-nx1"; */
+"vLd-k7-nx1.text" = "34800";
+
+/* Class = "UILabel"; text = "P"; ObjectID = "vTN-cS-B0w"; */
+"vTN-cS-B0w.text" = "P";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "vUK-XS-pe5"; */
+"vUK-XS-pe5.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "vXK-HW-gd4"; */
+"vXK-HW-gd4.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "student@gmail.com"; ObjectID = "vZu-HY-FB0"; */
+"vZu-HY-FB0.text" = "student@gmail.com";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "ve2-Jp-cZm"; */
+"ve2-Jp-cZm.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "whb-Eb-TQM"; */
+"whb-Eb-TQM.text" = "R";
+
+/* Class = "UILabel"; text = "Pending "; ObjectID = "wtD-g4-cjH"; */
+"wtD-g4-cjH.text" = "Pending ";
+
+/* Class = "UILabel"; text = "03:00:00"; ObjectID = "wva-rO-Dv0"; */
+"wva-rO-Dv0.text" = "03:00:00";
+
+/* Class = "UILabel"; text = "Powered By:"; ObjectID = "wwP-j5-NRc"; */
+"wwP-j5-NRc.text" = "Powered By:";
+
+/* Class = "UILabel"; text = "2018-04-30"; ObjectID = "x31-HN-pie"; */
+"x31-HN-pie.text" = "2018-04-30";
+
+/* Class = "UILabel"; text = "View Request"; ObjectID = "x9W-ha-IKa"; */
+"x9W-ha-IKa.text" = "View Request";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "xLd-zm-wXP"; */
+"xLd-zm-wXP.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "From Date"; ObjectID = "xMy-2k-LpP"; */
+"xMy-2k-LpP.text" = "From Date";
+
+/* Class = "UILabel"; text = "Teacher"; ObjectID = "xUC-5I-U00"; */
+"xUC-5I-U00.text" = "Teacher";
+
+/* Class = "UILabel"; text = "P"; ObjectID = "xXG-q0-Z6H"; */
+"xXG-q0-Z6H.text" = "P";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "xjz-Ip-N5P"; */
+"xjz-Ip-N5P.text" = "Date";
+
+/* Class = "UILabel"; text = "HINDI"; ObjectID = "xk7-gq-zCi"; */
+"xk7-gq-zCi.text" = "HINDI";
+
+/* Class = "UILabel"; text = "2017-20-18"; ObjectID = "y9G-3a-cfV"; */
+"y9G-3a-cfV.text" = "2017-20-18";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "yOF-Mc-hle"; */
+"yOF-Mc-hle.text" = "Date";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "yT1-yU-g09"; */
+"yT1-yU-g09.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "yqS-oZ-uBm"; */
+"yqS-oZ-uBm.text" = "RS";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "yso-hu-oeO"; */
+"yso-hu-oeO.text" = "S";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "ywI-wa-C7t"; */
+"ywI-wa-C7t.text" = "id";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "z0V-OF-9yS"; */
+"z0V-OF-9yS.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "Eshiksa Technology"; ObjectID = "z3d-Al-wyV"; */
+"z3d-Al-wyV.text" = "Eshiksa Technology";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "zFi-4Z-PMu"; */
+"zFi-4Z-PMu.text" = "RS";
+
+/* Class = "UIButton"; normalTitle = "Save Report"; ObjectID = "zKk-II-hrG"; */
+"zKk-II-hrG.normalTitle" = "Save Report";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "zPh-fD-aUZ"; */
+"zPh-fD-aUZ.text" = "सेटिंग्स";
+
+/* Class = "UILabel"; text = "34800"; ObjectID = "zV7-11-m9w"; */
+"zV7-11-m9w.text" = "34800";
+
+/* Class = "UIButton"; normalTitle = "Attachment"; ObjectID = "zdq-LG-d3S"; */
+"zdq-LG-d3S.normalTitle" = "Attachment";
+
+/* Class = "UIViewController"; title = "Hostel Room Request List "; ObjectID = "zq1-EN-wOZ"; */
+"zq1-EN-wOZ.title" = "Hostel Room Request List ";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "ztW-ow-i9h"; */
+"ztW-ow-i9h.text" = "Name:";
+
+/* Class = "UILabel"; text = "Request Type:"; ObjectID = "zva-1q-rED"; */
+"zva-1q-rED.text" = "Request Type:";
+
+/* Class = "UILabel"; text = "Author:"; ObjectID = "zx4-ts-TGa"; */
+"zx4-ts-TGa.text" = "Author:";
